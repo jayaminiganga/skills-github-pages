@@ -1,5 +1,5 @@
 ---
-title: "Breaking-Down-Financial-Models:-How-I-Built-a-Heston-Calibration-Engine"
+title: "title"
 date: 2025-06-12
 
 quick draft
