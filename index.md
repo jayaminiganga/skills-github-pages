@@ -1,14 +1,12 @@
----
-title: Welcome to my blog! 
-Quantitative Finance & Data Analysis Student | Stochastic Modeling Enthusiast
-I’m a Statistical Data Analytics candidate at Tampere University with a passion for derivatives pricing, statistical modeling, and data-driven investment strategies.
+# Welcome to My Quantitative Finance Portfolio
 
-My work focuses on:
+## About Me
+**M.Sc. Candidate in Statistical Data Analytics**  
+📍 Tampere University | 📊 Data-Driven Finance  
 
-Stochastic Volatility Modeling (Heston, Monte Carlo simulations)
+Passionate about computational finance with focus on:
+- 🎯 **Stochastic Modeling**: Heston model calibration, Monte Carlo simulations
+- 💰 **Derivatives Pricing**: Exotic options, FFT techniques
+- 📈 **Financial Analytics**: Volatility surfaces, risk metrics, portfolio optimization
 
-Derivatives Pricing (Exotic options, FFT techniques)
 
-Statistical Data Analysis (Optimization, Visualization)
-
----
