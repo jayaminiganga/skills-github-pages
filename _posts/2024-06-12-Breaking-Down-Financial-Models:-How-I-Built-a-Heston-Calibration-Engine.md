@@ -1,5 +1,8 @@
-title: "YOUR-TITLE"
+---
+title: "Implementing the Heston Model: A Practical Guide to Stochastic Volatility"
 date: 2025-06-12
-
-quick draft
+subtitle: "From theory to Python implementation"
+tags: [quantitative finance, options pricing, stochastic calculus, python]
+draft: true
+---
 
